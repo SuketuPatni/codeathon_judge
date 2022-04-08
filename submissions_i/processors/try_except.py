@@ -12,4 +12,4 @@ try:
         fs.write(main_str)
 
 except:
-    print("an error occurred")
+    print("an error occurred in try_except.py")

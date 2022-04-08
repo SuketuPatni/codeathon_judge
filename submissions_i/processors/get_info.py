@@ -22,4 +22,4 @@ try:
         except:
             print(err_string)
 except:
-    print("an error occurred")
+    print("an error occurred in get_info.py")

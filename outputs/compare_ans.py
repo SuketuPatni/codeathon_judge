@@ -24,6 +24,6 @@ try:
                     print(f"Output: {list1[i]}\nExpected output: {list2[i]}")
 
 
-    compare(model, output)
+    compare(output, model)
 except:
     print("an error occurred")

@@ -49,4 +49,4 @@ try:
     with open(filename, 'r') as f:
         print(remove_comments_and_docstrings(f.read()))
 except:
-    print("an error occurred")
+    print("an error occurred in remove_comments.py")
